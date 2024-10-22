@@ -57,7 +57,7 @@ project.
 
 GNU environments for Windows such as https://cygwin.com/[Cygwin],
 http://www.msys2.org/[MSYS2], or
-https://blogs.msdn.microsoft.com/wsl/[WSL] provide sufficient shell
+https://blogs.msdn.microsoft.com/wsl/[WSL] (or WSL2) provide sufficient shell
 capabilities to build Freedoom.  The dependencies listed previously
 for Freedoom apply just as well to a Windows environment.
 
